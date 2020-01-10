@@ -34,3 +34,5 @@ To create a production optimised build run the command below:
     npm run build
                                                         
 This created another folder in the root of your project named build. You'll have an option to start a local web server to view your newly created production build.
+
+[![Run on Repl.it](https://repl.it/badge/github/apathre/dashboardTest)](https://repl.it/github/apathre/dashboardTest)
